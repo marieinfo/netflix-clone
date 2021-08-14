@@ -1,0 +1,12 @@
+.navbar {
+  background-color: transparent;
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  padding: 10;
+}
+.logo h1 {
+  color: rgb(255, 49, 49);
+  font-weight: 800;
+  margin-left: 20px;
+}
